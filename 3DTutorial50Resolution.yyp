@@ -26,7 +26,6 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
-  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -52,9 +51,9 @@
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"tree4.d3d","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.7.606",
+    "IDEVersion": "2022.2.0.614",
   },
-  "resourceVersion": "1.4",
+  "resourceVersion": "1.5",
   "name": "3DTutorial50Resolution",
   "tags": [],
   "resourceType": "GMProject",
