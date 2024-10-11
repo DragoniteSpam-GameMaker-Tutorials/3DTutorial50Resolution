@@ -1,11 +1,12 @@
 {
-  "type": 1,
-  "parent": {
-    "name": "3DTutorial50Resolution",
-    "path": "3DTutorial50Resolution.yyp",
+  "$GMShader":"",
+  "%Name":"shd_depth",
+  "name":"shd_depth",
+  "parent":{
+    "name":"3DTutorial50Resolution",
+    "path":"3DTutorial50Resolution.yyp",
   },
-  "resourceVersion": "1.0",
-  "name": "shd_depth",
-  "tags": [],
-  "resourceType": "GMShader",
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }
